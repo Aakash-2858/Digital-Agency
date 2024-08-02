@@ -1,0 +1,60 @@
+.navbar {
+  background-image: linear-gradient(
+    to right,
+    rgb(101, 48, 101),
+    rgb(202, 90, 202)
+  ) !important;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.nav-link {
+  color: #fff;
+  text-transform: uppercase;
+}
+.nav-link:hover {
+  color: rgb(240, 229, 229);
+  font-weight: bold;
+}
+
+#banner-section {
+  background-image: linear-gradient(
+    to right,
+    rgb(101, 48, 101),
+    rgb(202, 90, 202)
+  );
+}
+
+#banner-section h2 {
+  color: #fff;
+}
+
+#banner-section p {
+  color: #fff;
+}
+
+.fa-play {
+  color: #fff;
+  font-size: 4rem;
+}
+
+#banner-2{
+  background-color: antiquewhite;
+}
+
+#demo-button:hover{
+  background-color: #fff;
+  color: blueviolet;
+
+}
+
+#profile-image{
+  border-radius: 50%;
+}
+
+#profile-section{
+  margin-left: 130px;
+}
